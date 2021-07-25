@@ -15,6 +15,8 @@ Make sure you create a .env file with your MySQL login credentials and the ecomm
 
 Once thats complete seed the files by running npm run seed and then npm start to start the server.  Once it tells you its listening on the specified port you can use your insomnia or postman to run requests and manage your database data.
 
-## Walkthrough
+## Walkthrough & Screen
 
 https://youtu.be/ATI2OwDBlhM please see a small demonstration of this with the link provided.
+
+![](https://github.com/JeffGrant274/e-commerce-backend/blob/main/assets/screen.JPG)
